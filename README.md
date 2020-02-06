@@ -1,2 +1,6 @@
-![](D:\DevWorkspace\Repository\AVD display changer\preview.png)
+wrapping `adb shell wm size` to GUI
+
+![](preview.png)
+
+
 
